@@ -16,6 +16,13 @@
 #
 ### PROJETO QUIZ
 ####    https://www.youtube.com/watch?v=HlkbeikH8cs
+### [// AULA - 26:50 - 33:12 - useRedecuer]
+### [// AULA - 33:13 - 38:23 - mudança de estado]
+### [// AULA - 38:25 - 46:11 - reodernar questions]
+### [// AULA - 46:13 - 49:53 - next questions]
+### [// AULA - 49:55 - 55:31 - Game Over]
+### [// AULA - 55:31 - 59:01 - Reinciiar jogo]
+### [// AULA - 59:01 - 1:01:42 - pontuação]
 #
  
     https://www.npmjs.com/package/@fortawesome/react-fontawesome
