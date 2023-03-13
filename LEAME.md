@@ -23,6 +23,7 @@
 ### [// AULA - 49:55 - 55:31 - Game Over]
 ### [// AULA - 55:31 - 59:01 - Reinciiar jogo]
 ### [// AULA - 59:01 - 1:01:42 - pontuação]
+### [// AULA - 1:01:42 -  - feedback acertos]
 #
  
     https://www.npmjs.com/package/@fortawesome/react-fontawesome
